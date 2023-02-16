@@ -182,3 +182,17 @@ a{
 	    align-content: center;
 	    align-items: center;
 }
+.update-date{
+	margin-top: 10px;
+	margin-left: 20px;
+	
+}
+.update-date-p{
+	color: #767676;
+	font-size: 10px;
+}
+.link{
+	    margin-top: 20px!important;
+	    color: #86868b!important;
+		border-right: 1px solid #d2d2d7;
+}
